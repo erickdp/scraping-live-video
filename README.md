@@ -3,7 +3,7 @@
 Para ejecutar el script se debe instalar los requerimientos del archivo txt
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Por defecto se graban 60s del video en vivo y se lo guarda como <ins>video.ts</ins> en la misma carpeta
 
